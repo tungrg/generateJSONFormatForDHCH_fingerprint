@@ -1,5 +1,4 @@
 
-
 import json
 import re
 
@@ -22,7 +21,7 @@ def parseListRange(rangeListToParse):
 
 #parse to get each line in the file
 def parseOS(Lines):
-  index = 0;
+  index = 0
   listOS = []
   while(index < len(Lines)):
     if("[class" in Lines[index]):
@@ -72,14 +71,16 @@ def ParseChildOS(Lines, index):
         vendorIDList.append(Lines[index].strip())
         index+=1
       index+=1
-    fingerprint = ""
+    fingerprintsList = []
     if("fingerprints" in Lines[index]):
       index+=1
+      fingerprint = ""
       while("EOT" not in Lines[index]):
-        fingerprint+= parseDecimalToHex(Lines[index])
+        fingerprint = parseDecimalToHex(Lines[index])
+        fingerprintsList.append(fingerprint)
         index+=1
       index +=1
-      OSChildList.append(ChildOS(name,id, vendorIDList, fingerprint))
+      OSChildList.append(ChildOS(name,id, vendorIDList, fingerprintsList))
     index+=1
   return OSChildList
 
@@ -91,23 +92,27 @@ def getClassOS(id, OSlistAug):
   classOS = []
   for i in OSlistAug:
     for j in i.range:
-      if id > j[0] and id < j[1]:
+      if id >= j[0] and id <= j[1]:
         classOS.append(i.name)
   return classOS
+
+OSChildList[0].name
 
 #save the result into a dictionary
 result = {}
 for i in OSChildList:
   if not i.vendorList:
-    tempDictResult = {"description": i.name, "fingerprint": [i.fingerprint]}
+    tempDictResult = {"description": i.name, "fingerprint": i.fingerprint}
   else:
-    tempDictResult = {"description": i.name, "vendor_id": i.vendorList, "fingerprint": [i.fingerprint]}
+    tempDictResult = {"description": i.name, "vendor_id": i.vendorList, "fingerprint": i.fingerprint}
   idResult = getClassOS(i.id, OSlist)
   for j in idResult:
     if j in result:
       result[j].append(tempDictResult)
     else:
       result[j] = [tempDictResult]
+
+result
 
 #adjust the result so it fit more with the task
 listDictResult = []
