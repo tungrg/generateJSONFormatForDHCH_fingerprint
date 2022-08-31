@@ -8,7 +8,7 @@
                "vendor_id": [
                   "MSFT 5.0"
                ],
-               "fingerprint": [
+               "fingerprints": [
                   "010f03062c2e2f1f21f92b",
                   "010f03062c2e2f1f21f92bfc",
                   "010f03062c2e2f1f21f92bfc0c",
@@ -24,7 +24,7 @@
                   "MSFT 5.0",
                   "MSFT"
                ],
-               "fingerprint": [
+               "fingerprints": [
                   "010f03062c2e2f1f212b",
                   "010f03062c2e2f1f212bfc",
                   "010f03062c2e2f1f212bfc0c",
@@ -38,7 +38,7 @@
                   "MS",
                   "MSFT"
                ],
-               "fingerprint": [
+               "fingerprints": [
                   "010f03062c2e2f1f212b4d",
                   "0f03062c2e2f1f212b4d"
                ]
@@ -49,19 +49,19 @@
                   "MSFT 98",
                   "MSFT"
                ],
-               "fingerprint": [
+               "fingerprints": [
                   "0103060f2c2e2f39"
                ]
             },
             {
                "description": "Microsoft Windows 95",
-               "fingerprint": [
+               "fingerprints": [
                   "01030f062c2e2f"
                ]
             },
             {
                "description": "Microsoft Windows NT 4",
-               "fingerprint": [
+               "fingerprints": [
                   "010203060c0f1a1c555657582c2d2e2f46454e4f",
                   "010f032c2e2f06"
                ]
@@ -71,7 +71,7 @@
                "vendor_id": [
                   "MSFT 5.0"
                ],
-               "fingerprint": [
+               "fingerprints": [
                   "0f03062c2e2f2b4d",
                   "010f03062c2e2f2b4d",
                   "0f03062c2e2f2b4dfc",
@@ -83,14 +83,17 @@
                "vendor_id": [
                   "MSFT 5.0"
                ],
-               "fingerprint": [
+               "fingerprints": [
                   "010f03062c2e2f1f2179f92b",
                   "010f03062c2e2f1f2179f92bfc"
                ]
             },
             {
+               "description": "Microsoft Windows 2003"
+            },
+            {
                "description": "Microsoft Windows 8",
-               "fingerprint": [
+               "fingerprints": [
                   "010f03062c2e2f1f2179f9fc2b"
                ]
             }
@@ -105,7 +108,7 @@
                   "MS",
                   "MSFT"
                ],
-               "fingerprint": [
+               "fingerprints": [
                   "010f03062c2e2f1f212b4d",
                   "0f03062c2e2f1f212b4d"
                ]
@@ -116,19 +119,19 @@
                   "MSFT 98",
                   "MSFT"
                ],
-               "fingerprint": [
+               "fingerprints": [
                   "0103060f2c2e2f39"
                ]
             },
             {
                "description": "Microsoft Windows 95",
-               "fingerprint": [
+               "fingerprints": [
                   "01030f062c2e2f"
                ]
             },
             {
                "description": "Microsoft Windows NT 4",
-               "fingerprint": [
+               "fingerprints": [
                   "010203060c0f1a1c555657582c2d2e2f46454e4f",
                   "010f032c2e2f06"
                ]
@@ -138,7 +141,7 @@
                "vendor_id": [
                   "MSFT 5.0"
                ],
-               "fingerprint": [
+               "fingerprints": [
                   "0f03062c2e2f2b4d",
                   "010f03062c2e2f2b4d",
                   "0f03062c2e2f2b4dfc",
@@ -147,13 +150,13 @@
             },
             {
                "description": "OS/2 Warp",
-               "fingerprint": [
+               "fingerprints": [
                   "0103060f1c21"
                ]
             },
             {
                "description": "BeOS",
-               "fingerprint": [
+               "fingerprints": [
                   "0103060f0c13"
                ]
             }
@@ -164,7 +167,7 @@
          "os": [
             {
                "description": "Mac OS X",
-               "fingerprint": [
+               "fingerprints": [
                   "0103060f70714e4f5f",
                   "0103060f70714e4f5ffc",
                   "03060f70714e4f5ffc",
@@ -184,13 +187,13 @@
             },
             {
                "description": "Mac OS 9",
-               "fingerprint": [
+               "fingerprints": [
                   "0103060f212a2c2d2e2f4546474a4e4f"
                ]
             },
             {
                "description": "Mac OS X Lion",
-               "fingerprint": [
+               "fingerprints": [
                   "0103060f775ffc2c2e"
                ]
             }
@@ -208,7 +211,7 @@
                   "Cisco Systems, Inc. IP Phone CP-7960",
                   "Cisco Systems, Inc. IP Phone CP-7960G"
                ],
-               "fingerprint": [
+               "fingerprints": [
                   "014206030f9623",
                   "014206030f962397",
                   "0103060f2a4296",
@@ -223,7 +226,7 @@
             },
             {
                "description": "Avaya IP Phone",
-               "fingerprint": [
+               "fingerprints": [
                   "0103060f42452bb0",
                   "010307060f42452bb0",
                   "011c03060f2af2",
@@ -232,31 +235,31 @@
             },
             {
                "description": "BATM VoIP Adapter",
-               "fingerprint": [
+               "fingerprints": [
                   "0103060f0c"
                ]
             },
             {
                "description": "Linksys PAP VoIP",
-               "fingerprint": [
+               "fingerprints": [
                   "01032a06070f3a3b42"
                ]
             },
             {
                "description": "Mediatrix VoIP Adapter",
-               "fingerprint": [
+               "fingerprints": [
                   "0103060c0f2a2b"
                ]
             },
             {
                "description": "Uniden DTA VoIP Adapater",
-               "fingerprint": [
+               "fingerprints": [
                   "010203060f2a"
                ]
             },
             {
                "description": "UniData IP Phone",
-               "fingerprint": [
+               "fingerprints": [
                   "36333a3b0103060f1c8b",
                   "36333a3b0103060f1c8b022a42"
                ]
@@ -266,26 +269,26 @@
                "vendor_id": [
                   "MTA6328R"
                ],
-               "fingerprint": [
+               "fingerprints": [
                   "0301060c0f43422b"
                ]
             },
             {
                "description": "Sipura VoIP Adaptor",
-               "fingerprint": [
+               "fingerprints": [
                   "010f03062c2e2f42",
                   "01032a06070f3a3b2c42"
                ]
             },
             {
                "description": "Clipcomm IP Phone",
-               "fingerprint": [
+               "fingerprints": [
                   "0103060f2c2e2f1f212b"
                ]
             },
             {
                "description": "Nortel IP Phone",
-               "fingerprint": [
+               "fingerprints": [
                   "011c0103",
                   "011c03",
                   "333a3b01032b80909dbffb",
@@ -299,37 +302,37 @@
             },
             {
                "description": "ZyXEL WiFi Phone",
-               "fingerprint": [
+               "fingerprints": [
                   "010306420f"
                ]
             },
             {
                "description": "UTStarcom F3000",
-               "fingerprint": [
+               "fingerprints": [
                   "01060f032b"
                ]
             },
             {
                "description": "ShoreTel IP Phone",
-               "fingerprint": [
+               "fingerprints": [
                   "011c9c0403422a"
                ]
             },
             {
                "description": "Siemens OpenStage IP Phones",
-               "fingerprint": [
+               "fingerprints": [
                   "010203060c0f1c212a2b78"
                ]
             },
             {
                "description": "Siemens optiPoint WL2 Professional",
-               "fingerprint": [
+               "fingerprints": [
                   "010203060c0f1c2a2b78"
                ]
             },
             {
                "description": "Siemens optiPoint 410/420",
-               "fingerprint": [
+               "fingerprints": [
                   "011c2b03",
                   "011c03060f212a022b",
                   "011c03060f212a022b78"
@@ -337,19 +340,19 @@
             },
             {
                "description": "Alcatel Advanced Reflex IP Phone",
-               "fingerprint": [
+               "fingerprints": [
                   "011c363a3b3c2b03"
                ]
             },
             {
                "description": "Alcatel IP Touch 8 Series Phones",
-               "fingerprint": [
+               "fingerprints": [
                   "01031c2b3a3b"
                ]
             },
             {
                "description": "Cisco/Linksys SPA series IP Phone",
-               "fingerprint": [
+               "fingerprints": [
                   "01032a06070f3a3b2c429697",
                   "01032a06070f3a3b2c42960297",
                   "01032a06070f3a3b42029697a09f"
@@ -357,38 +360,38 @@
             },
             {
                "description": "Siemens optiPoint 150 S",
-               "fingerprint": [
+               "fingerprints": [
                   "0103060c0f42"
                ]
             },
             {
                "description": "Mitel IP Phone",
-               "fingerprint": [
+               "fingerprints": [
                   "0103060c2a2c33363a3b80427881828384858687e08a7d2b"
                ]
             },
             {
                "description": "Polycom Conference IP Phone",
-               "fingerprint": [
+               "fingerprints": [
                   "0103060f2a2b2c2e2f77",
                   "011c42060f03232b8083909dbcbfcddbdfe8f7fb"
                ]
             },
             {
                "description": "Polycom SoundPoint IP 430",
-               "fingerprint": [
+               "fingerprints": [
                   "011c4203042a02060f"
                ]
             },
             {
                "description": "Snom VoIP solutions",
-               "fingerprint": [
+               "fingerprints": [
                   "0103060c0f2a424378"
                ]
             },
             {
                "description": "Aastra VoIP",
-               "fingerprint": [
+               "fingerprints": [
                   "0103062a2b0242",
                   "0103062a2b429fa0",
                   "0103062a2b02429fa0",
@@ -396,52 +399,61 @@
                ]
             },
             {
+               "description": "Nortel IP Phone Model 1535"
+            },
+            {
+               "description": "Nortel IP Phone Model 1535"
+            },
+            {
                "description": "Nortel IP Phone Model 1535",
-               "fingerprint": [
+               "fingerprints": [
                   "0103060c0f11171c1d1f2128292a42",
                   "0103060c0f11171c1d1f2128292a424896"
                ]
             },
             {
                "description": "Polycom SoundPoint IP 450",
-               "fingerprint": [
+               "fingerprints": [
                   "011ca04203042a02060f"
                ]
             },
             {
                "description": "Polycom SoundStation IP 6000",
-               "fingerprint": [
+               "fingerprints": [
                   "01030fa0420304362a02060f"
                ]
             },
             {
                "description": "Polycom SoundPoint IP 301",
-               "fingerprint": [
+               "fingerprints": [
                   "011c0342042a02060f"
                ]
             },
             {
                "description": "GrandStream HandyTone 503 ATA",
-               "fingerprint": [
+               "fingerprints": [
                   "0103060c0f1c42"
                ]
             },
             {
                "description": "Unidentified Polycom",
-               "fingerprint": [
+               "fingerprints": [
                   "011c42060f0323b0",
                   "01030ff204362a0206"
                ]
             },
             {
+               "description": "Unidentified Polycom"
+            },
+            {
                "description": "MagicJack Plus",
-               "fingerprint": [
+               "fingerprints": [
                   "36333a3b0103060f1c"
                ]
             },
             {
                "description": "Cisco ATA 186",
-               "fingerprint": [
+               "fingerprints": [
                   "0103060c0f2a4296"
                ]
             }
@@ -455,7 +467,7 @@
                "vendor_id": [
                   "Airespace.AP120"
                ],
-               "fingerprint": [
+               "fingerprints": [
                   "011c03060f430407",
                   "011c03060f4304",
                   "011c03060f2c",
@@ -469,13 +481,13 @@
             },
             {
                "description": "Compex Wireless Access Point",
-               "fingerprint": [
+               "fingerprints": [
                   "01030f062b4d"
                ]
             },
             {
                "description": "Cisco/Linksys Router",
-               "fingerprint": [
+               "fingerprints": [
                   "0103060c0f1c",
                   "0103060f1c36",
                   "011c02030f060c0407171a2b323336373c3d",
@@ -492,8 +504,11 @@
                ]
             },
             {
+               "description": "Netgear Router"
+            },
+            {
                "description": "Netgear Router",
-               "fingerprint": [
+               "fingerprints": [
                   "0103060c0f1c2179",
                   "03060f",
                   "0301060f",
@@ -505,14 +520,17 @@
                ]
             },
             {
+               "description": "Netgear Router"
+            },
+            {
                "description": "OEMed Wireless Router",
-               "fingerprint": [
+               "fingerprints": [
                   "0103060f"
                ]
             },
             {
                "description": "Apple Airport",
-               "fingerprint": [
+               "fingerprints": [
                   "1c03060f",
                   "011c03060f",
                   "0102030f060c2c"
@@ -523,20 +541,35 @@
                "vendor_id": [
                   "S24AP"
                ],
-               "fingerprint": [
+               "fingerprints": [
                   "0103060c0f2b42438081828384858687"
                ]
             },
             {
+               "description": "Nortel/Trapeze Wireless Access Point",
+               "vendor_id": [
+                  "TRAPEZE-AP:2330"
+               ]
+            },
+            {
                "description": "Gemtek Wireless Router",
-               "fingerprint": [
+               "fingerprints": [
                   "0103060f2b2c2e2f",
                   "011c02030f060c0407171a2b323336373c3d48"
                ]
             },
             {
+               "description": "D-Link Wireless Router"
+            },
+            {
+               "description": "D-Link Wireless Router"
+            },
+            {
+               "description": "D-Link Wireless Router"
+            },
+            {
                "description": "D-Link Wireless Router",
-               "fingerprint": [
+               "fingerprints": [
                   "0103060c0f42454643",
                   "0103060c0f1c28292a2c2e2f",
                   "0103060c0f1c2128292a2c2e2f",
@@ -548,44 +581,53 @@
             },
             {
                "description": "2Wire Residential Gateway",
-               "fingerprint": [
+               "fingerprints": [
                   "010203060f582a2c2e2f"
                ]
             },
             {
                "description": "Motorola Router",
-               "fingerprint": [
+               "fingerprints": [
                   "011c01030604"
                ]
             },
             {
                "description": "Buffalo Wireless AP",
-               "fingerprint": [
+               "fingerprints": [
                   "0103060c0f171c1d1f2128292a2c"
                ]
             },
             {
                "description": "Bluesocket BSC",
-               "fingerprint": [
+               "fingerprints": [
                   "011c030f060c2c"
                ]
             },
             {
+               "description": "DD-WRT Router"
+            },
+            {
                "description": "DD-WRT Router",
-               "fingerprint": [
+               "fingerprints": [
                   "0103060c0f1c28292a"
                ]
             },
             {
                "description": "Trendnet Access Point",
-               "fingerprint": [
+               "fingerprints": [
                   "011c0605032c0f",
                   "0605032c0f"
                ]
             },
             {
+               "description": "TP-Link Wireless LAN Router"
+            },
+            {
+               "description": "TP-Link Wireless LAN Router"
+            },
+            {
                "description": "TP-Link Wireless LAN Router",
-               "fingerprint": [
+               "fingerprints": [
                   "01032b2c2e2f06",
                   "0103060c0f111c2a",
                   "011c032b2c2e2f06",
@@ -597,43 +639,43 @@
             },
             {
                "description": "Ruckus Wireless",
-               "fingerprint": [
+               "fingerprints": [
                   "010203060c0f1c2a2b2c"
                ]
             },
             {
                "description": "Enterasys or Trapeze Wireless Access Point",
-               "fingerprint": [
+               "fingerprints": [
                   "010f03062b"
                ]
             },
             {
                "description": "Enterasys HiPath Wireless Access Point",
-               "fingerprint": [
+               "fingerprints": [
                   "011c03060f0c"
                ]
             },
             {
                "description": "Quanta Microsystems Router",
-               "fingerprint": [
+               "fingerprints": [
                   "03161701182123060f"
                ]
             },
             {
                "description": "HP ProCurve Access Point",
-               "fingerprint": [
+               "fingerprints": [
                   "011c02030f060c2b"
                ]
             },
             {
                "description": "HP ProCurve Controller",
-               "fingerprint": [
+               "fingerprints": [
                   "011c02030f060c2c"
                ]
             },
             {
                "description": "Aruba Access Point",
-               "fingerprint": [
+               "fingerprints": [
                   "010304060c0f1c2a2b3c",
                   "0103060c0f042b2c3c2a1c",
                   "0103060c0f112b3c"
@@ -641,13 +683,13 @@
             },
             {
                "description": "Trendnet Wireless Router",
-               "fingerprint": [
+               "fingerprints": [
                   "01f903060c0f1c2128292a2c"
                ]
             },
             {
                "description": "Belkin Wireless Router",
-               "fingerprint": [
+               "fingerprints": [
                   "0301060f79",
                   "01030c172c2f",
                   "0103060c0f1c212c"
@@ -655,31 +697,31 @@
             },
             {
                "description": "MikroTik (RouterOS)",
-               "fingerprint": [
+               "fingerprints": [
                   "01790321062a"
                ]
             },
             {
                "description": "Freebox Wireless Router",
-               "fingerprint": [
+               "fingerprints": [
                   "0103060f333a3bff"
                ]
             },
             {
                "description": "AeroHive Hive Access Points",
-               "fingerprint": [
+               "fingerprints": [
                   "010306070c0f1c28292ae1e2e3e4"
                ]
             },
             {
                "description": "Tenda Wireless Router",
-               "fingerprint": [
+               "fingerprints": [
                   "0103060f1f212b2c2e2ff9"
                ]
             },
             {
                "description": "Zioncom Wireless Router",
-               "fingerprint": [
+               "fingerprints": [
                   "0103060a0c0e0f1c28292a57"
                ]
             }
@@ -689,8 +731,11 @@
          "description": "Linux",
          "os": [
             {
+               "description": "Debian-based Linux"
+            },
+            {
                "description": "Debian-based Linux",
-               "fingerprint": [
+               "fingerprints": [
                   "011c02030f060c",
                   "011c02030f060c2a",
                   "03060f1c0c07092a3031",
@@ -702,7 +747,7 @@
             },
             {
                "description": "Generic Linux",
-               "fingerprint": [
+               "fingerprints": [
                   "03060c0f11171c1d1f2128292a77",
                   "0103060c0f171c1d1f2128292a",
                   "03060c0f11171c1d1f2128292a0907c82c",
@@ -713,7 +758,7 @@
             },
             {
                "description": "SUSE Linux/Novell Desktop",
-               "fingerprint": [
+               "fingerprints": [
                   "0103060c0f11171c1d1f2128292a0907c82c",
                   "0103060c0f11171c1d1f2128292a09072c2d2e2f",
                   "0103060c0f11171c1d1f2128292a09072c2d2e2f77",
@@ -722,7 +767,7 @@
             },
             {
                "description": "RedHat/Fedora-based Linux",
-               "fingerprint": [
+               "fingerprints": [
                   "011c02030f060c28292a",
                   "1c02030f060c28292a",
                   "011c02030f060c28292a1a77",
@@ -731,7 +776,7 @@
             },
             {
                "description": "Gentoo Linux",
-               "fingerprint": [
+               "fingerprints": [
                   "0103060c0f11171c1d1f2128292a",
                   "0103060c0f11171c1d1f2128292a77",
                   "3a3b011c7921030c770f0628292a1a",
@@ -741,62 +786,65 @@
             },
             {
                "description": "Ubuntu/Debian 5/Knoppix 6",
-               "fingerprint": [
+               "fingerprints": [
                   "011c02030f06770c2c2f1a79",
                   "011c02030f06770c2c2f1a792a"
                ]
             },
             {
                "description": "FortiOS",
-               "fingerprint": [
+               "fingerprints": [
                   "010203060c0f1c282a"
                ]
             },
             {
                "description": "Puppy Linux 4.x",
-               "fingerprint": [
+               "fingerprints": [
                   "3a3b011c7921030c770f0628292a1a1178"
                ]
             },
             {
                "description": "Meego Netbook",
-               "fingerprint": [
+               "fingerprints": [
                   "fc032a0f06010c"
                ]
             },
             {
+               "description": "Meego Netbook"
+            },
+            {
                "description": "Ubuntu Server 10.04 LTS",
-               "fingerprint": [
+               "fingerprints": [
                   "3a3b011c7921030c770f061a1178"
                ]
             },
             {
                "description": "Suse Linux Enterprise Desktop 11",
-               "fingerprint": [
+               "fingerprints": [
                   "011c031a0c0f0628295755562c2d2e2f2a"
                ]
             },
             {
                "description": "Ubuntu 11.04",
-               "fingerprint": [
+               "fingerprints": [
                   "011c02030f06770c2c2f1a792a79f9fc2a"
                ]
             },
             {
                "description": "Fedora 14 based distro",
-               "fingerprint": [
+               "fingerprints": [
                   "011c02790f060c28292a1a7703"
                ]
             },
             {
                "description": "Chrome OS",
-               "fingerprint": [
+               "fingerprints": [
                   "01792103060c0f1a1c33363a3b77"
                ]
             },
             {
                "description": "Fedora 15 or 16 based distro",
-               "fingerprint": [
+               "fingerprints": [
                   "011c02790f060c28292a1a770379f9fc2a"
                ]
             }
@@ -807,38 +855,38 @@
          "os": [
             {
                "description": "Xbox",
-               "fingerprint": [
+               "fingerprints": [
                   "0306"
                ]
             },
             {
                "description": "Xbox 360",
-               "fingerprint": [
+               "fingerprints": [
                   "010306"
                ]
             },
             {
                "description": "Playstation 2",
-               "fingerprint": [
+               "fingerprints": [
                   "030f06",
                   "01030f06"
                ]
             },
             {
                "description": "Gamecube",
-               "fingerprint": [
+               "fingerprints": [
                   "03061a1c3a3b"
                ]
             },
             {
                "description": "Wii",
-               "fingerprint": [
+               "fingerprints": [
                   "0103060c0f1c213a3b"
                ]
             },
             {
                "description": "Playstation 3 or Playstation Portable (PSP)",
-               "fingerprint": [
+               "fingerprints": [
                   "01031c060f"
                ]
             }
@@ -849,45 +897,45 @@
          "os": [
             {
                "description": "TiVo",
-               "fingerprint": [
+               "fingerprints": [
                   "1c02030f060c"
                ]
             },
             {
                "description": "Replay TV",
-               "fingerprint": [
+               "fingerprints": [
                   "0102030407060f",
                   "011c"
                ]
             },
             {
                "description": "Amino Aminet Set Top Box",
-               "fingerprint": [
+               "fingerprints": [
                   "010203060c0f11171c1d1f2128292a2b",
                   "0103060c0f11171c1d1f2128292a2b"
                ]
             },
             {
                "description": "Slingbox",
-               "fingerprint": [
+               "fingerprints": [
                   "0103060f2c2e2f"
                ]
             },
             {
                "description": "Motorola NIM100",
-               "fingerprint": [
+               "fingerprints": [
                   "0103060f173336"
                ]
             },
             {
                "description": "Sony player",
-               "fingerprint": [
+               "fingerprints": [
                   "0103060f33"
                ]
             },
             {
                "description": "Panasonic G20 Television",
-               "fingerprint": [
+               "fingerprints": [
                   "3a3b060f33360103"
                ]
             }
@@ -898,7 +946,7 @@
          "os": [
             {
                "description": "HP Printer",
-               "fingerprint": [
+               "fingerprints": [
                   "0103072c33363a3b0c0f9012",
                   "01032c06070c0f16363a3b451290",
                   "032c06070c0f16363a3b451290",
@@ -923,15 +971,18 @@
             },
             {
                "description": "Canon Printer",
-               "fingerprint": [
+               "fingerprints": [
                   "03060f2c2f",
                   "0103060f2c2f",
                   "01030c17060f"
                ]
             },
             {
+               "description": "Xerox Printer"
+            },
+            {
                "description": "Xerox Printer",
-               "fingerprint": [
+               "fingerprints": [
                   "3301033a3b0c2c36060f90",
                   "011c030f060c2c4e4f",
                   "011c030f060c2c4e4f4243",
@@ -951,13 +1002,13 @@
             },
             {
                "description": "Dell Printer",
-               "fingerprint": [
+               "fingerprints": [
                   "010203060c0f1a1c582c2d2e2f46454e4f"
                ]
             },
             {
                "description": "Brother Printer",
-               "fingerprint": [
+               "fingerprints": [
                   "0103060c0f1c2a282c2e",
                   "0603010f42430d0c2c",
                   "010203060c0f1a1c555657582c2d2e2f",
@@ -966,13 +1017,13 @@
             },
             {
                "description": "Tally Printer",
-               "fingerprint": [
+               "fingerprints": [
                   "0103063a3b2c2e2f"
                ]
             },
             {
                "description": "Kyocera Printer",
-               "fingerprint": [
+               "fingerprints": [
                   "01030c060f172c2f",
                   "01030c17060f2c2f",
                   "01030f062c",
@@ -982,13 +1033,13 @@
             },
             {
                "description": "Epson Printer",
-               "fingerprint": [
+               "fingerprints": [
                   "0103060c0f1c2a28"
                ]
             },
             {
                "description": "Lexmark Printer",
-               "fingerprint": [
+               "fingerprints": [
                   "0103060c0f1c2a282617252c27131a",
                   "0103042a06070c0f1a2c33363a3bbe",
                   "0103070c1a2c33363a3bbe",
@@ -1000,32 +1051,32 @@
             },
             {
                "description": "Trendnet Printserver",
-               "fingerprint": [
+               "fingerprints": [
                   "0103"
                ]
             },
             {
                "description": "Generic Printer",
-               "fingerprint": [
+               "fingerprints": [
                   "010306070c0f12171a2c2e33363a3b4e4f51"
                ]
             },
             {
                "description": "Toshiba Multifunction Printer",
-               "fingerprint": [
+               "fingerprints": [
                   "0103062c0c0f0445462a"
                ]
             },
             {
                "description": "Ricoh Multifunction Printer",
-               "fingerprint": [
+               "fingerprints": [
                   "0103060f1c2c2f",
                   "0103060c0f1c2c2f"
                ]
             },
             {
                "description": "Konica Minolta Multifunction Printer",
-               "fingerprint": [
+               "fingerprints": [
                   "0103060f2c2e",
                   "0103060f2c",
                   "0103062c2e",
@@ -1034,7 +1085,7 @@
             },
             {
                "description": "Zebra Printer",
-               "fingerprint": [
+               "fingerprints": [
                   "03161701182123060f2c0b"
                ]
             }
@@ -1048,7 +1099,7 @@
                "vendor_id": [
                   "docsis1.0"
                ],
-               "fingerprint": [
+               "fingerprints": [
                   "0142060343",
                   "01420603430c96",
                   "0142060343962b"
@@ -1056,14 +1107,14 @@
             },
             {
                "description": "Cisco Catalyst 35xx",
-               "fingerprint": [
+               "fingerprints": [
                   "01060f2c0321",
                   "01060f2c34"
                ]
             },
             {
                "description": "HP ProCurve",
-               "fingerprint": [
+               "fingerprints": [
                   "0103041743",
                   "01030417",
                   "0103042b",
@@ -1072,37 +1123,37 @@
             },
             {
                "description": "Enterasys SecureStacks",
-               "fingerprint": [
+               "fingerprints": [
                   "0301"
                ]
             },
             {
                "description": "Cisco Small Business",
-               "fingerprint": [
+               "fingerprints": [
                   "010342433681968384060f64"
                ]
             },
             {
                "description": "3Com Switches",
-               "fingerprint": [
+               "fingerprints": [
                   "0103060f1b"
                ]
             },
             {
                "description": "HP ProCurve 1800-8G",
-               "fingerprint": [
+               "fingerprints": [
                   "01030c"
                ]
             },
             {
                "description": "HP ProCurve 3500yl",
-               "fingerprint": [
+               "fingerprints": [
                   "0103041743422b"
                ]
             },
             {
                "description": "3Com 4400 SE Switch",
-               "fingerprint": [
+               "fingerprints": [
                   "010636452a320403330c74"
                ]
             }
@@ -1113,25 +1164,25 @@
          "os": [
             {
                "description": "Hotway LanDrive",
-               "fingerprint": [
+               "fingerprints": [
                   "0103060f1c"
                ]
             },
             {
                "description": "LaCie NAS",
-               "fingerprint": [
+               "fingerprints": [
                   "0103060c0f1c2a"
                ]
             },
             {
                "description": "Xyratex NAS",
-               "fingerprint": [
+               "fingerprints": [
                   "010603"
                ]
             },
             {
                "description": "Synology NAS",
-               "fingerprint": [
+               "fingerprints": [
                   "0103060c0f11171c1d1f2128292a2c"
                ]
             }
@@ -1142,20 +1193,26 @@
          "os": [
             {
                "description": "Nokia Internet Tablet (udhcpc client)",
-               "fingerprint": [
+               "fingerprints": [
                   "0103060c0f111c28292a",
                   "0103061c"
                ]
             },
             {
                "description": "RIM BlackBerry",
-               "fingerprint": [
+               "fingerprints": [
                   "380601030f"
                ]
             },
             {
+               "description": "Apple iPod, iPhone or iPad"
+            },
+            {
+               "description": "Apple iPod, iPhone or iPad"
+            },
+            {
                "description": "Apple iPod, iPhone or iPad",
-               "fingerprint": [
+               "fingerprints": [
                   "0103060f774e4f5ffc",
                   "0103060f77fc",
                   "0103060f77fc2ed05c",
@@ -1164,38 +1221,44 @@
             },
             {
                "description": "HTC Android",
-               "fingerprint": [
+               "fingerprints": [
                   "017921031c333a3b"
                ]
             },
             {
+               "description": "Symbian OS"
+            },
+            {
                "description": "Symbian OS",
-               "fingerprint": [
+               "fingerprints": [
                   "0c060f01031c78",
                   "0c060f01031c7877"
                ]
             },
             {
                "description": "Sony Ericsson Android",
-               "fingerprint": [
+               "fingerprints": [
                   "0103060c0f1c21333a3b7779"
                ]
             },
             {
                "description": "Apple iPod",
-               "fingerprint": [
+               "fingerprints": [
                   "010f0306"
                ]
             },
             {
                "description": "Samsung S8000",
-               "fingerprint": [
+               "fingerprints": [
                   "0102030405060708090c0d0f1011171a1c2a2c32333536384243"
                ]
             },
             {
+               "description": "Samsung S8500"
+            },
+            {
                "description": "Samsung S8500",
-               "fingerprint": [
+               "fingerprints": [
                   "010305060c0d0f11171c2a32333536384243",
                   "01030506200d0f11171c2a32333536384243",
                   "01030506310d0f11171c2a32333536384243"
@@ -1203,19 +1266,43 @@
             },
             {
                "description": "Sony Ericsson W800i",
-               "fingerprint": [
+               "fingerprints": [
                   "01030678"
                ]
             },
             {
                "description": "LG BL40",
-               "fingerprint": [
+               "fingerprints": [
                   "36330601031a0f78"
                ]
             },
             {
+               "description": "Generic Android"
+            },
+            {
+               "description": "Generic Android"
+            },
+            {
+               "description": "Generic Android"
+            },
+            {
+               "description": "Generic Android"
+            },
+            {
+               "description": "Generic Android"
+            },
+            {
+               "description": "Generic Android"
+            },
+            {
+               "description": "Generic Android"
+            },
+            {
+               "description": "Generic Android"
+            },
+            {
                "description": "Generic Android",
-               "fingerprint": [
+               "fingerprints": [
                   "01792103061c333a3b",
                   "0103061c21333a3b79",
                   "01792103060f1c333a3b77",
@@ -1223,8 +1310,14 @@
                ]
             },
             {
+               "description": "Generic Android"
+            },
+            {
+               "description": "Generic Android"
+            },
+            {
                "description": "Samsung Android",
-               "fingerprint": [
+               "fingerprints": [
                   "01792103060f1c333a3b",
                   "0103060f1c21333a3b79",
                   "0603010f0c2a",
@@ -1233,43 +1326,49 @@
             },
             {
                "description": "Palm OS",
-               "fingerprint": [
+               "fingerprints": [
                   "0103060f2c2e2f4243"
                ]
             },
             {
                "description": "Sharp Phone",
-               "fingerprint": [
+               "fingerprints": [
                   "36330601030f78"
                ]
             },
             {
+               "description": "Android Tablet"
+            },
+            {
                "description": "Android Tablet",
-               "fingerprint": [
+               "fingerprints": [
                   "012103061c333a3b"
                ]
             },
             {
                "description": "Unknown Android",
-               "fingerprint": [
+               "fingerprints": [
                   "01792103061c2a333a3b"
                ]
             },
             {
                "description": "Motorola Android",
-               "fingerprint": [
+               "fingerprints": [
                   "01792103060f1c2c333a3b77"
                ]
             },
             {
+               "description": "Vizio Android Tablet"
+            },
+            {
                "description": "Vizio Android Tablet",
-               "fingerprint": [
+               "fingerprints": [
                   "01792103060c0f1c2a333a3b77"
                ]
             },
             {
                "description": "Samsung SGH T528g",
-               "fingerprint": [
+               "fingerprints": [
                   "0103060c333a3b"
                ]
             }
@@ -1280,13 +1379,13 @@
          "os": [
             {
                "description": "NetBotz WallBotz 400C",
-               "fingerprint": [
+               "fingerprints": [
                   "0103060f0c4546582a"
                ]
             },
             {
                "description": "HP iLO Agent",
-               "fingerprint": [
+               "fingerprints": [
                   "0103060f1c212b2c3a3b",
                   "ca",
                   "cb"
@@ -1294,16 +1393,19 @@
             },
             {
                "description": "APC UPS",
-               "fingerprint": [
+               "fingerprints": [
                   "0603010f42430d2b3a3b2a020c",
                   "0603010f42430d2c2b3a3b2a020c"
                ]
             },
             {
                "description": "Tripplite UPS",
-               "fingerprint": [
+               "fingerprints": [
                   "0103060c0f1c2a2826172527131a"
                ]
+            },
+            {
+               "description": "Tripplite UPS"
             }
          ]
       },
@@ -1312,33 +1414,33 @@
          "os": [
             {
                "description": "Tandberg 1000",
-               "fingerprint": [
+               "fingerprints": [
                   "0103060c0f78f2"
                ]
             },
             {
                "description": "Polycom ViewStation",
-               "fingerprint": [
+               "fingerprints": [
                   "0601030c2c",
                   "0601030c2c0f"
                ]
             },
             {
                "description": "Tandberg",
-               "fingerprint": [
+               "fingerprints": [
                   "010307",
                   "01031c060c0f1a2af278"
                ]
             },
             {
                "description": "Polycom VSX 3000",
-               "fingerprint": [
+               "fingerprints": [
                   "0103060f0c2c"
                ]
             },
             {
                "description": "LifeSize Video Conferencing",
-               "fingerprint": [
+               "fingerprints": [
                   "011c02030f060c2a9d"
                ]
             }
@@ -1349,15 +1451,24 @@
          "os": [
             {
                "description": "OpenBSD",
-               "fingerprint": [
+               "fingerprints": [
                   "011c030f060c"
                ]
             },
             {
+               "description": "OpenBSD"
+            },
+            {
                "description": "FreeBSD",
-               "fingerprint": [
+               "fingerprints": [
                   "011c0279030f060c"
                ]
+            },
+            {
+               "description": "FreeBSD"
+            },
+            {
+               "description": "FreeBSD"
             }
          ]
       },
@@ -1366,7 +1477,7 @@
          "os": [
             {
                "description": "Eye-Fi Wireless Memory Card",
-               "fingerprint": [
+               "fingerprints": [
                   "01031c06"
                ]
             }
@@ -1382,7 +1493,7 @@
                   "Etherboot-5.2",
                   "SUNW.Sun-Blade-100"
                ],
-               "fingerprint": [
+               "fingerprints": [
                   "01030c2b"
                ]
             },
@@ -1391,7 +1502,7 @@
                "vendor_id": [
                   "PXEClient:Arch:00000:UNDI:002001"
                ],
-               "fingerprint": [
+               "fingerprints": [
                   "01020305060b0c0d0f1011122b363c438081828384858687",
                   "01030305060b0c0d0f1011122b363c438081828384858687",
                   "0102030405060b0c0d0f10111216171c28292a2b3233363a3b3c42438081828384858687",
@@ -1401,7 +1512,7 @@
             },
             {
                "description": "Novell Netware Client",
-               "fingerprint": [
+               "fingerprints": [
                   "4e4f55",
                   "4e4f",
                   "4f4e",
@@ -1413,26 +1524,26 @@
             },
             {
                "description": "Anaconda (RedHat) Installer",
-               "fingerprint": [
+               "fingerprints": [
                   "0103060f1c0c07092a30311a"
                ]
             },
             {
                "description": "Apple Netboot",
-               "fingerprint": [
+               "fingerprints": [
                   "01032b3c",
                   "0103432b3c"
                ]
             },
             {
                "description": "Etherboot/gPXE",
-               "fingerprint": [
+               "fingerprints": [
                   "0103062b"
                ]
             },
             {
                "description": "Generic Intel PXE",
-               "fingerprint": [
+               "fingerprints": [
                   "01030c2c"
                ]
             }
@@ -1443,19 +1554,19 @@
          "os": [
             {
                "description": "Linspire",
-               "fingerprint": [
+               "fingerprints": [
                   "011c02030f060c2e2c"
                ]
             },
             {
                "description": "PHLAK",
-               "fingerprint": [
+               "fingerprints": [
                   "0103060f1c0c07092a3031"
                ]
             },
             {
                "description": "Knoppix",
-               "fingerprint": [
+               "fingerprints": [
                   "0103060f332c"
                ]
             }
@@ -1466,13 +1577,13 @@
          "os": [
             {
                "description": "OpenSolaris",
-               "fingerprint": [
+               "fingerprints": [
                   "0103060c0f1c2b"
                ]
             },
             {
                "description": "Solaris 8 (SunOS 5.8)",
-               "fingerprint": [
+               "fingerprints": [
                   "01020305060c0f131c2128294041"
                ]
             }
@@ -1482,14 +1593,17 @@
          "description": "Projectors",
          "os": [
             {
+               "description": "Solaris 8 (SunOS 5.8)"
+            },
+            {
                "description": "Epson Projectors",
-               "fingerprint": [
+               "fingerprints": [
                   "0603010f42430d2c"
                ]
             },
             {
                "description": "NEC Projectors",
-               "fingerprint": [
+               "fingerprints": [
                   "3201030c0f333a3b062a4546"
                ]
             }
@@ -1500,20 +1614,20 @@
          "os": [
             {
                "description": "Neoware e100 NeoLinux",
-               "fingerprint": [
+               "fingerprints": [
                   "0103060f1c0c07092a303189d3d4d5d6db"
                ]
             },
             {
                "description": "Neoware Capio Windows CE",
-               "fingerprint": [
+               "fingerprints": [
                   "0103060f2c2e2f89d7",
                   "0103060f2c2e2f89d7e0e2"
                ]
             },
             {
                "description": "Generic Thin Client",
-               "fingerprint": [
+               "fingerprints": [
                   "0103060c0f111a1c28",
                   "0103060c0f111c",
                   "010306070c0f112b3c4243afcb"
@@ -1521,7 +1635,7 @@
             },
             {
                "description": "Wyse Technology thin client",
-               "fingerprint": [
+               "fingerprints": [
                   "011c030f060c022a30a1a2b8b9a3a4bcbdb5b6bebabb"
                ]
             }
@@ -1532,7 +1646,7 @@
          "os": [
             {
                "description": "Paradox Card Access module",
-               "fingerprint": [
+               "fingerprints": [
                   "010306333a3b"
                ]
             }
@@ -1542,8 +1656,11 @@
          "description": "Datacenter appliance",
          "os": [
             {
+               "description": "Paradox Card Access module"
+            },
+            {
                "description": "VMware vCenter Server Appliance",
-               "fingerprint": [
+               "fingerprints": [
                   "3a3b011c7921030c770f0628292a1a117809072c2d2f",
                   "3a3b011c7921030c770f0628292a1a117809072c2d2e2f"
                ]
@@ -1555,13 +1672,13 @@
          "os": [
             {
                "description": "Moneris HiSpeed 3100IP",
-               "fingerprint": [
+               "fingerprints": [
                   "0103060f4645"
                ]
             },
             {
                "description": "PCS Revenue Control Systems",
-               "fingerprint": [
+               "fingerprints": [
                   "0103062a0c0f1f212b"
                ]
             }
